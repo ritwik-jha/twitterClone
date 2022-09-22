@@ -32,5 +32,10 @@ Compose Tweet    | Profile Page | Tweet Successful  | Search Page
 :----------:|:----------------:|:------------------:|:-----------
 ![](https://user-images.githubusercontent.com/59885389/191818942-56bcc264-59a9-4192-9b9d-c35e3e96db33.png)| ![](https://user-images.githubusercontent.com/59885389/191819024-d598da91-7a00-4bbb-b12e-49449418a654.png) | ![](https://user-images.githubusercontent.com/59885389/191819240-4664e4a4-3eec-43c9-832f-f2972b7261e6.png) | ![](https://user-images.githubusercontent.com/59885389/191819376-493a5ff1-c009-4878-ad75-942401582bad.png)
 
+## TO-DO's
+1. Comment functionality
+2. Share functionality
+3. Profile Image functionality
+4. Making search functional
 
 
