@@ -21,21 +21,16 @@ A working Twitter clone built in Flutter and backend made using python django.
 
 ## Screenshots
 
-Login Page     | Signup Page          | Navigation bar     
-:-------------:|:--------------------:|:--------------:
-![](https://user-images.githubusercontent.com/59885389/191813120-0f5a4aaa-f558-486f-92c9-a5571c647258.png) |![](https://user-images.githubusercontent.com/59885389/191813272-b108fa00-a0e6-482b-8813-b8f579df0355.png) |![](https://user-images.githubusercontent.com/59885389/191813336-8c782787-5010-4c90-8bdc-64251d906985.png)
+Login Page     | Signup Page          | Navigation bar | Home Page    
+:-------------:|:--------------------:|:--------------:|:----------
+![](https://user-images.githubusercontent.com/59885389/191813120-0f5a4aaa-f558-486f-92c9-a5571c647258.png) |![](https://user-images.githubusercontent.com/59885389/191813272-b108fa00-a0e6-482b-8813-b8f579df0355.png) |![](https://user-images.githubusercontent.com/59885389/191813336-8c782787-5010-4c90-8bdc-64251d906985.png) | ![](https://user-images.githubusercontent.com/59885389/191818911-d6894935-c369-41cb-9395-819df50f3652.png)
 
 
 
 
-Home Page   | Compose Tweet    | Profile Page
-:----------:|:----------------:|:------------:
-![](https://user-images.githubusercontent.com/59885389/191818911-d6894935-c369-41cb-9395-819df50f3652.png)| ![](https://user-images.githubusercontent.com/59885389/191818942-56bcc264-59a9-4192-9b9d-c35e3e96db33.png)| ![](https://user-images.githubusercontent.com/59885389/191819024-d598da91-7a00-4bbb-b12e-49449418a654.png)
-
-Tweet Successful| Search Page|
-:---------------|:-----------|
-![successful page](https://user-images.githubusercontent.com/59885389/191819240-4664e4a4-3eec-43c9-832f-f2972b7261e6.png) | ![search](https://user-images.githubusercontent.com/59885389/191819376-493a5ff1-c009-4878-ad75-942401582bad.png)
+Compose Tweet    | Profile Page | Tweet Successful  | Search Page
+:----------:|:----------------:|:------------------:|:-----------
+![](https://user-images.githubusercontent.com/59885389/191818942-56bcc264-59a9-4192-9b9d-c35e3e96db33.png)| ![](https://user-images.githubusercontent.com/59885389/191819024-d598da91-7a00-4bbb-b12e-49449418a654.png) | ![](https://user-images.githubusercontent.com/59885389/191819240-4664e4a4-3eec-43c9-832f-f2972b7261e6.png) | ![](https://user-images.githubusercontent.com/59885389/191819376-493a5ff1-c009-4878-ad75-942401582bad.png)
 
 
-# 
 
